@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8%20%7C%203.9-blue.svg"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-blue.svg"></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-1.3.3-red.svg"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-red.svg"></a>
 </p>
 
 
